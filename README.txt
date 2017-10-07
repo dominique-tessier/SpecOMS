@@ -1,8 +1,11 @@
 ********************************************************************************
 ********************************************************************************
-
-
-
+NB : SpecOMS can be downloaded  in the "Release" tab in Github interface. Please
+use the most recent  version. If you wish to be kept up to date on releases, you
+can send a mail to the address at the end of this readme stating so, and we will
+get in touch  with you when new  releases happen. For  additional information on 
+future  features to be  added in SpecOMS or  any further details, please contact
+us.
 
 ********************************************************************************
 *                          ---- SpecOMS README ----                            *
