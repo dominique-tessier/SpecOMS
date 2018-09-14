@@ -466,19 +466,15 @@ us.
 *   In case of any trouble using SpecOMS, the author of the software can be    *
 *   reached at the following address:                                          *
 *                                                                              *
-*      Matthieu DAVID : matthieu.david@univ-nantes.fr                          *
+*              Dominique TESSIER : dominique.tessier@inra.fr                   *
 *                                                                              *
 *   In case you suspect an incorrect behavior from the software, more          *
 *   information about your dataset and configuration parameters might be       *
 *   asked along with a minimal working example reproducing the problem so      *
 *   that the issue can be further investigated.                                *
 *                                                                              *
-*   In case no answer is given to you under two weeks, we strongly             *
-*   recommend you to contact this person instead:                              *
 *                                                                              *
-*      Dominique TESSIER : dominique.tessier@inra.fr                           *
-*                                                                              *
-*   Any communication should be written in english.                            *
+*   Any communication should be written in english or french.                  *
 *                                                                              *
 ********************************************************************************
 
