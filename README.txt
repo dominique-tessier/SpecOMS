@@ -277,6 +277,27 @@ us.
 |      to the insertion of the exact mass value m and all supplementary        |
 |      masses between m-x and m+x.                                             |
 |                                                                              |
+|      shift=x                                                                 |
+|      GUI parameter : "Improve alignment using SpecFit" checkbox              |
+|      Boolean value                                                           |
+|      Default value is true                                                   |
+|      Allows SpecFit to search for an improved alignment of the peaks in      |
+|      the PSM and attempt to localize a potential modification. If set to     |
+|      false, SpecFit only searches for missed-cleavages.                      |
+|                                                                              |
+|      single_match=x                                                          |
+|      Boolean value                                                           |
+|      Default value is true                                                   |
+|      When set to false, returns all the PSMs above the treshold T,           |
+|      When set to true, returns the best PSM for each spectrum                |
+|      In case of equality, returns the PSM with the lowest mass delta         |
+|                                                                              |
+|      minMassDelta=x                                                          |
+|      Integer value                                                           |
+|      Default value = -500 (Da)                                               |
+|      Only PSM with a mass delta above this value are taken into account      |
+|                                                                              |
+|                                                                              |
 |   The combination of the parameters numberofDecimals and decimalValue        |
 |   should be as close as possible to the fragment ion accuracy used for the   |
 |   acquisition of the experimental dataset processed using the software       |
